@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://elynema.github.io/Manifest/annotations/0fc3de9e0da637b7c125e23db6a9656f.json" ],
+  "otherContent" : [ "https://elynema.github.io/Manifest/annotations/0fc3de9e0da637b7c125e23db6a9656f.json", "https://elynema.github.io/Manifest/annotations/1f2723f0d4c9508993939a3fd2a26ffa.json" ],
   "@id" : "https://elynema.github.io/Manifest/annotations/collection.json",
   "label" : "All annotations loaded in elynema/Manifest project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
