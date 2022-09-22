@@ -3,6 +3,11 @@
   "@id" : "https://elynema.github.io/Manifest/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Assorted images",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/101239697190959328697/a18a2c19fcc984468e045bd9687b7995/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Editor",
     "value" : "Emily Lynema"
@@ -64,6 +69,11 @@
           "width" : 8262
         },
         "on" : "http://b907b901-36a0-48f0-8e5e-13d468d2233e"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://elynema.github.io/Manifest/annotations/0fc3de9e0da637b7c125e23db6a9656f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
